@@ -294,16 +294,17 @@
     </div>
   </section>
 
-  <section id="veille" data-reveal>
-    <div class="section-head"><span class="tag">04</span><h2>veille</h2><div class="rule"></div></div>
-    <div class="section-label">// Veille technologique en direct</div>
-    <div id="veille-container" class="veille-slot">Chargement de la veille…</div>
-    <div style="text-align:center;margin-top:8px;">
-      <a href="#" id="veille-secours-lien" style="font-size:11px;color:var(--muted);text-decoration:underline;">🛟 Voir la dernière veille connue (RSS)</a>
-    </div>
-  </section>
-  <script>
-    (function () {
+<div id="veille-ia-widget" style="min-height:120px;border:1px solid #45475a;border-radius:12px;overflow:hidden;">
+  <div style="padding:24px;text-align:center;color:#8b93a7;font-family:sans-serif;font-size:13px;">
+    Chargement de la veille…
+  </div>
+</div>
+<div style="text-align:center;margin-top:8px;">
+  <a href="#" id="veille-secours-lien" style="font-size:11px;color:#8b93a7;text-decoration:underline;">🛟 Voir la dernière veille connue (RSS)</a>
+</div>
+
+<script>
+(function () {
   var VEILLE_URL = "https://ftpupload.net/veille-ia.html";
   var GH_OWNER   = "BrightNight725";
   var GH_REPO    = "portfolio";
@@ -374,7 +375,7 @@
     afficherRSS("Basculé manuellement");
   };
 })();
-  </script>
+</script>
 
   <section id="contact" data-reveal>
     <div class="contact">
