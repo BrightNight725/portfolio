@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Veille IA - Technologies De Reconnaissances Spatials De Masse</title>
+    <link>https://github.com/BrightNight725/portfolio</link>
+    <description>Veille technologique automatisee sur : Technologies de reconnaissances spatials de masse</description>
+    <language>fr</language>
+    <lastBuildDate>Sat, 12 Sep 2026 10:07:27 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Sep 2026 10:07:27 +0000</pubDate>
+  <item>
+    <title>L'utilisation de l'intelligence artificielle géospatiale au - IHEDD</title>
+    <link>https://ihedd.ferdi.fr/formations/l-utilisation-de-l-intelligence-artificielle-geospatiale-au-service-du-developpement</link>
+    <description>Le domaine GeoAI, ou intelligence artificielle géospatiale, combine les technologies de l’IA et de l’analyse géospatiale pour extraire des informations pertinentes et exploitables à partir de données spatiales hétérogènes. Ce domaine innovant permet d’améliorer la prise de décision dans de très nombreux champs en lien avec le développement durable. Les données spatiales et les cartes jouent un rôle crucial dans notre compréhension du monde, tant pour la définition que pour la mise en œuvre et l'évaluation des projets et politiques de développement.</description>
+    <pubDate>Sat, 12 Sep 2026 10:07:27 +0000</pubDate>
+    <guid isPermaLink="true">https://ihedd.ferdi.fr/formations/l-utilisation-de-l-intelligence-artificielle-geospatiale-au-service-du-developpement</guid>
+  </item>
+  <item>
+    <title>Inférence d'IA orbitale à masse réduite via des panneaux solaires, de calcul et de radiateurs intégrés | alphaXiv</title>
+    <link>https://www.alphaxiv.org/fr/abs/2604.07760</link>
+    <description>Introduction aux Centres de Données Orbitaux
+
+L'expansion rapide de l'Intelligence Artificielle (IA) a exercé une pression immense sur les infrastructures terrestres. L'entraînement et l'inférence d'IA à grande échelle nécessitent des surfaces importantes, d'énormes quantités d'énergie électrique et de vastes quantités d'eau pour le refroidissement. Alors que ces exigences se heurtent à des contraintes réglementaires et environnementales sur Terre, les chercheurs explorent le potentiel du calcul spatial.</description>
+    <pubDate>Sat, 12 Sep 2026 10:07:27 +0000</pubDate>
+    <guid isPermaLink="true">https://www.alphaxiv.org/fr/abs/2604.07760</guid>
+  </item>
+  </channel>
+</rss>
