@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Veille IA - Technologies De Reconnaissances Spatials De Masse</title>
+    <link>https://github.com/BrightNight725/portfolio</link>
+    <description>Veille technologique automatisee sur : Technologies de reconnaissances spatials de masse</description>
+    <language>fr</language>
+    <lastBuildDate>Fri, 09 Oct 2026 10:04:01 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Oct 2026 10:04:01 +0000</pubDate>
+  <item>
+    <title>L’intelligence artificielle va-t-elle révolutionner la ...</title>
+    <link>https://www.tech-generation.fr/2026/06/16/lintelligence-artificielle-va-t-elle-revolutionner-la-surveillance-spatiale/</link>
+    <description>Comment l’intelligence artificielle est-elle en train de transformer nos satellites et la façon dont nous surveillons la Terre ? Pour la première fois, un satellite d’observation a localisé, sans intervention humaine, ce qu’il devait chercher dans la masse de données spatiales. Mais pourquoi cet événement, qui s’est produit en avril avec le satellite YAM-9 de Loft Orbital et le Jet Propulsion Laboratory de la NASA, suscite-t-il autant de remous dans la communauté scientifique ?</description>
+    <pubDate>Fri, 09 Oct 2026 10:04:01 +0000</pubDate>
+    <guid isPermaLink="true">https://www.tech-generation.fr/2026/06/16/lintelligence-artificielle-va-t-elle-revolutionner-la-surveillance-spatiale/</guid>
+  </item>
+  <item>
+    <title>Technologies quantiques et intelligence artificielle ...</title>
+    <link>https://fr.yenisafak.com/international/technologies-quantiques-et-intelligence-artificielle-bousculent-lindustrie-spatiale-33233</link>
+    <description>Technologies quantiques
+
+"L'intelligence artificielle et les technologies quantiques sont des bouleversements majeurs", explique le directeur général de l'Agence spatiale européenne (ESA) Joseph Aschbacher. Les technologies basées sur les principes de la physique quantique, qui étudie l'infiniment petit, vont permettre des communications et des transmissions de données entre les équipements dans l'espace et sur Terre quasi-instantanées, et sécurisées grâce à la cryptographie qui rend presque impossible le piratage. Les ordinateurs quantiques, plus puissants que les classiques, vont contribuer à optimiser les trajectoires spatiales, condition essentielle pour les missions longues et l'évitement de collision entre satellites et débris.</description>
+    <pubDate>Fri, 09 Oct 2026 10:04:01 +0000</pubDate>
+    <guid isPermaLink="true">https://fr.yenisafak.com/international/technologies-quantiques-et-intelligence-artificielle-bousculent-lindustrie-spatiale-33233</guid>
+  </item>
+  <item>
+    <title>SpaceX étend le traitement par intelligence artificielle à l ...</title>
+    <link>https://m24press.com/fr/spacex-prevoit-de-transferer-le-traitement-de-lintelligence-artificielle-dans-lespace-via-un-nouveau-reseau-de-satellites/</link>
+    <description>Ce projet s’inscrit dans une démarche visant à créer des centres de données orbitaux capables d’effectuer des calculs complexes hors de la Terre, plutôt que de dépendre entièrement des infrastructures traditionnelles situées à la surface de la planète. Lancement des premiers satellites avant la fin de l’année 2027
+
+Selon le calendrier annoncé, « SpaceX » prévoit d’envoyer la première série de satellites équipés d’une infrastructure informatique dédiée à l’intelligence artificielle avant la fin de l’année 2027. Le lancement du reste des satellites du réseau devrait être achevé avant la fin de l’année 2028, dans le cadre de l’extension du projet de centres de données opérationnels en orbite.</description>
+    <pubDate>Fri, 09 Oct 2026 10:04:01 +0000</pubDate>
+    <guid isPermaLink="true">https://m24press.com/fr/spacex-prevoit-de-transferer-le-traitement-de-lintelligence-artificielle-dans-lespace-via-un-nouveau-reseau-de-satellites/</guid>
+  </item>
+  </channel>
+</rss>
